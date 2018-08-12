@@ -1,0 +1,11 @@
+/home/eagle/dev/DotNetSort/bin/Debug/netcoreapp2.1/DotNetSort.deps.json
+/home/eagle/dev/DotNetSort/bin/Debug/netcoreapp2.1/DotNetSort.runtimeconfig.json
+/home/eagle/dev/DotNetSort/bin/Debug/netcoreapp2.1/DotNetSort.runtimeconfig.dev.json
+/home/eagle/dev/DotNetSort/bin/Debug/netcoreapp2.1/DotNetSort.dll
+/home/eagle/dev/DotNetSort/bin/Debug/netcoreapp2.1/DotNetSort.pdb
+/home/eagle/dev/DotNetSort/obj/Debug/netcoreapp2.1/DotNetSort.csprojAssemblyReference.cache
+/home/eagle/dev/DotNetSort/obj/Debug/netcoreapp2.1/DotNetSort.csproj.CoreCompileInputs.cache
+/home/eagle/dev/DotNetSort/obj/Debug/netcoreapp2.1/DotNetSort.AssemblyInfoInputs.cache
+/home/eagle/dev/DotNetSort/obj/Debug/netcoreapp2.1/DotNetSort.AssemblyInfo.cs
+/home/eagle/dev/DotNetSort/obj/Debug/netcoreapp2.1/DotNetSort.dll
+/home/eagle/dev/DotNetSort/obj/Debug/netcoreapp2.1/DotNetSort.pdb
